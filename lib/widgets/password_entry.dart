@@ -24,7 +24,7 @@ class _PasswordEntryState extends State<PasswordEntry> {
           obscureText: widget.viewPassword,
           decoration: InputDecoration(
             border: OutlineInputBorder(),
-            labelText: "Password",
+            labelText: "Password hrkko",
           ),
           keyboardType: TextInputType.number,
       ),
